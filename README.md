@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Luars Qamo (archieQa) 👋
 
-<!--
-**archieQa/archieQa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 About Me
+I am a first-year student in **Applied Computer Science** at **Otto-Friedrich-Universität Bamberg**, Germany. My GitHub primarily showcases my work in **JavaScript** (both frontend and backend), but I’m passionate about exploring a variety of programming languages and technologies. My coding skills include:
 
-Here are some ideas to get you started:
+- **Python**: Versatile scripting and automation projects.
+- **JavaScript**: Full-stack development using the latest frameworks.
+- **Java & Go**: Backend development and system-level programming.
+- **C++**: Experimentation with low-level programming concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While I may not be proficient in all these languages yet, I am dedicated to honing my skills daily and expanding my expertise.
+
+### 🚀 What I Do
+I actively leverage the latest **AI technologies** to enhance my learning process and to build innovative projects. I stay up-to-date with industry trends to ensure my work incorporates the best practices and cutting-edge solutions.
+
+### 🔍 My Focus
+- Developing full-stack applications with an emphasis on **scalability** and **security**.
+- Exploring backend architectures using **Node.js**, **Go**, and other modern technologies.
+- Experimenting with AI and automation to create intelligent, efficient systems.
+
+### 🎯 On a Mission
+I am committed to continuous improvement and growth as a developer. My goal is to become proficient across various programming languages and paradigms, adapting and applying my knowledge to real-world problems.
+
+### 📬 Let's Connect
+- [GitHub](https://github.com/archieQa)
+- [LinkedIn](https://www.linkedin.com/in/luarsqamo/)
+
+Feel free to explore my repositories and connect. I’m always open to collaborations and exciting new projects!
