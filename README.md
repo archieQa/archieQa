@@ -1,7 +1,9 @@
 # Hi there, I'm Luars Qamo (archieQa) 👋
 
 ### 💼 About Me
-I am a first-year student in **Applied Computer Science** at **Otto-Friedrich-Universität Bamberg**, Germany. My GitHub primarily showcases my work in **JavaScript** (both frontend and backend), but I’m passionate about exploring a variety of programming languages and technologies. My coding skills include:
+Hi there! I’m a former computer science student from Germany, now starting a new chapter in Malta. After completing two semesters in Applied Computer Science at Otto-Friedrich-Universität Bamberg, I’ve relocated to Malta and am excited about pursuing my studies in computer science this fall, either at MCAST or the University of Malta.
+
+During my time in Germany, I dived deep into programming, with my GitHub showcasing projects in JavaScript (frontend and backend). I love exploring new technologies and picking up fresh programming skills, and I’m eager to keep expanding my knowledge here in Malta.
 
 - **Python**: Versatile scripting and automation projects.
 - **JavaScript**: Full-stack development using the latest frameworks.
