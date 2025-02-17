@@ -1,30 +1,25 @@
 # Hi there, I'm Luars Qamo (archieQa) 👋
 
 ### 💼 About Me
-Hi there! I’m a former computer science student from Germany, now starting a new chapter in Malta. After completing two semesters in Applied Computer Science at Otto-Friedrich-Universität Bamberg, I’ve relocated to Malta and am excited about pursuing my studies in computer science this fall, either at MCAST or the University of Malta.
+Hi, I have a deep desire to make and develop new ideas into actual code. I love solving problems, even though I suck at mathematics. I try my best to create innovative solutions. I am experienced in web application development and native development, so I’m a REAL full-stack engineer :)
 
-During my time in Germany, I dived deep into programming, with my GitHub showcasing projects in JavaScript (frontend and backend). I love exploring new technologies and picking up fresh programming skills, and I’m eager to keep expanding my knowledge here in Malta.
+During my time in Germany, I dove deep into web creation—so deep that I decided, together with my bro CetiJunior, to open a web solutions company named CA - Web Solutions. We developed small, free projects for local businesses, making their online presence a reality.
 
-- **Python**: Versatile scripting and automation projects.
-- **JavaScript**: Full-stack development using the latest frameworks.
-- **Java & Go**: Backend development and system-level programming.
-- **C++**: Experimentation with low-level programming concepts.
+A little after that, I wasn’t impressed by front-end development anymore, so I decided to understand how to write backend logic for more complex systems. Since I had experience with JavaScript, I picked up Node.js, which was one of my best decisions because I fell in love with programming even more.
 
-While I may not be proficient in all these languages yet, I am dedicated to honing my skills daily and expanding my expertise.
+Now, with the abilities of LLMs (Large Language Models), I can write code even faster and could probably develop a full-fledged social network within a week. However, this makes coding a bit less fun for me.
 
-### 🚀 What I Do
-I actively leverage the latest **AI technologies** to enhance my learning process and to build innovative projects. I stay up-to-date with industry trends to ensure my work incorporates the best practices and cutting-edge solutions.
+Now, I’m on a path to finding out even more stuff, making myself an even more unbelievable asset to anyone in the tech industry.
 
-### 🔍 My Focus
-- Developing full-stack applications with an emphasis on **scalability** and **security**.
-- Exploring backend architectures using **Node.js**, **Go**, and other modern technologies.
-- Experimenting with AI and automation to create intelligent, efficient systems.
+I like to follow the entrepreneurial route, but to reach that point, I have to be an absolute asset first.
 
-### 🎯 On a Mission
-I am committed to continuous improvement and growth as a developer. My goal is to become proficient across various programming languages and paradigms, adapting and applying my knowledge to real-world problems.
+There’s something about low-level coding that gets me going, and I want to figure out how to solve a big world problem with it.
+
+I’ll keep this "About Me" updated always for self-documentation.
+
+Thank you for reading! <3
+
 
 ### 📬 Let's Connect
 - [GitHub](https://github.com/archieQa)
 - [LinkedIn](https://www.linkedin.com/in/luarsqamo/)
-
-Feel free to explore my repositories and connect. I’m always open to collaborations and exciting new projects!
